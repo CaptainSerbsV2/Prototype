@@ -1,0 +1,19 @@
+SunDog Engine / Dec 15 2020 16:28:32
+WM: initializing...
+System timer period has been changed to 8 ms; (min:1;max:1000000)
+WM: 1536 x 864; PPI 110; lang en_US
+WM: flags SCALABLE FULLSCREEN MAXIMIZED 
+WM: color theme loading (other colors)
+WM: ready
+DSOUND init...
+Found output device 0: Primary Sound Driver
+Found output device 1: Speakers (Realtek(R) Audio)
+DSOUND: selected device: -1
+DSOUND thread starting...
+DSOUND play
+MIDI device not found: LPK25
+Stack ptr: 0
+MIDI device not found: LPK25
+SunVox v1.9.6c Dec 15 2020 16:28:36; driver: DirectSound; 32bit floating-point; sample rate: 44100; ARCH: x86_64; OS: win64
+Project length (frames): 6032880
+Export time: 6.688000 sec

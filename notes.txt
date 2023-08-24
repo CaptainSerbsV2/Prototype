@@ -1,0 +1,17 @@
+Rarity:
+Common 0 40%
+Uncommon 1 25%
+Rare 2 15%
+Unique 3 5%
+Epic 4 10%
+Legendary 5 5%
+
+Default: Damage 1.0 / Firerate 1.0 / size 1.0 / multi hit 0 / multi shot 0 / speed 1.0 / accuracy 80%
+
+BASIC: No bonuses or negatives
+MARKSMAN: Damage +20% / Firerate -20% / Size -10% / speed +10% / accuracy +10% / no multishot / no multihit
+HUGE: Damage +50% / firerate -50% / Size +20% / speed -20% / no accuracy dif / no multishot / +2 multihit
+RAPID: Damage -20% / firerate +30% / no size dif/ no speed dif / accuracy -20% / no multishot / no multihit
+SPLATTER: Damage -50% / no firerate dif / no size dif / speed -10% / accuracy -30% / multishot +2 / no multihit
+
+Formula: Damage/firerate/accuracy   Type bonuses * Rarity(0/0%, 1/5%, jne)* playerlevel (1% per level)

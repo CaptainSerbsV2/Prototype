@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\imfai\Documents\NetBeansProjects\Prototype\dist\Prototype.jar</jar>
+  <outfile>C:\Users\imfai\STUFF\STUFF Prototype\Prototype v0.004.2.exe</outfile>
+  <errTitle>Get java bitch. lmao</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>https://www.oracle.com/java/technologies/downloads/</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\imfai\STUFF\STUFF Prototype\PrototypeIcon.ico</icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>16.0.1</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJdk</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <splash>
+    <file>C:\Users\imfai\STUFF\STUFF Prototype\PrototypeIconBMP.bmp</file>
+    <waitForWindow>true</waitForWindow>
+    <timeout>60</timeout>
+    <timeoutErr>true</timeoutErr>
+  </splash>
+  <versionInfo>
+    <fileVersion>0.0.4.2</fileVersion>
+    <txtFileVersion>v0.004.2</txtFileVersion>
+    <fileDescription>Java prototype game in the works.</fileDescription>
+    <copyright>This application &apos; and its content is copyright of Sere &quot;Serbs&quot; Kuusitaival 2023. All rights reserved.  </copyright>
+    <productVersion>0.0.4.2</productVersion>
+    <txtProductVersion>v0.004.2</txtProductVersion>
+    <productName>Prototype</productName>
+    <companyName></companyName>
+    <internalName>Prototype</internalName>
+    <originalFilename>Prototype v0.004.2.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>FINNISH</language>
+  </versionInfo>
+  <messages>
+    <startupErr>Error. Shit hit the fan.</startupErr>
+    <bundledJreErr>Some error about bundled JRE idk.</bundledJreErr>
+    <jreVersionErr>Your java version sucks ass. Get a newer version lmao.</jreVersionErr>
+    <launcherErr>Well shit. Something is missing or runtime is corrupted :DDD</launcherErr>
+    <instanceAlreadyExistsMsg>You got two instanses running dipshit.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>
